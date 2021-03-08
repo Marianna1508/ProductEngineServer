@@ -1,0 +1,8 @@
+total 24
+-rw------- 1 user user    0 бер  4 15:28 config-err-ZC89Cq
+drwx------ 2 user user 4096 бер  4 15:28 ssh-0Lb5wl8T7KiA
+drwx------ 3 root root 4096 бер  4 15:28 systemd-private-d9a0ba47cd5944f0a2137bc4a231f20c-bolt.service-70JAUz
+drwx------ 3 root root 4096 бер  4 15:28 systemd-private-d9a0ba47cd5944f0a2137bc4a231f20c-colord.service-ZQzY8X
+drwx------ 3 root root 4096 бер  4 17:27 systemd-private-d9a0ba47cd5944f0a2137bc4a231f20c-ModemManager.service-m9LcvG
+drwx------ 3 root root 4096 бер  4 15:28 systemd-private-d9a0ba47cd5944f0a2137bc4a231f20c-rtkit-daemon.service-m9oDa7
+drwx------ 3 root root 4096 бер  4 17:27 systemd-private-d9a0ba47cd5944f0a2137bc4a231f20c-systemd-resolved.service-TLQHEO

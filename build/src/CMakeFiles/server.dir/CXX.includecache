@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/CServer.h
+
+/home/user/ProductEngine/Server/src/CServer.cpp
+iostream
+-
+CServer.h
+/home/user/ProductEngine/Server/src/CServer.h
+
+/home/user/ProductEngine/Server/src/main.cpp
+iostream
+-
+chrono
+-
+thread
+-
+CServer.h
+/home/user/ProductEngine/Server/src/CServer.h
+

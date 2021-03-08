@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -O3 -Wall   CMakeFiles/custom_server.dir/main.cpp.o CMakeFiles/custom_server.dir/CServer.cpp.o  -o custom_server 
